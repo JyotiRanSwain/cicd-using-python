@@ -2,6 +2,10 @@
 
 pip install paramiko
 
+
+pip install gitpython
+
+
 sudo chown -R ubuntu:ubuntu /opt
 
 
