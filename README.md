@@ -3,6 +3,8 @@
 pip install paramiko
 
 sudo chown -R ubuntu:ubuntu /opt
+
+
 sudo chmod -R u+rwx /opt
 
 
