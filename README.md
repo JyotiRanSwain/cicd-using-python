@@ -16,9 +16,23 @@ $ scp -v -i office_sing.pem -o StrictHostKeyChecking=no Power-Cloud-1.war ubuntu
 # Replace the following value according to your requirement
 
 repo_url (gitHub)
+
+
 local_path
+
+
 hostname (tomcat IP)
+
+
 username (tomcat server)
+
+
 source_path (.war file path)
+
+
 destination_path
+
+
 key_path (.pem file)
+
+
